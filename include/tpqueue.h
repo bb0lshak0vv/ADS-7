@@ -11,7 +11,7 @@ class TPQueue {
       T val;
       Queue* next;
     };
-    Queue* head
+    Queue* head;
 
   public:
     TPQueue() {
